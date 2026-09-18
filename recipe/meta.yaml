@@ -43,4 +43,5 @@ about:
 
 extra:
   recipe-maintainers:
+    - conda-forge/perl-packagers
     - cbrueffer
